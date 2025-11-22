@@ -7,10 +7,17 @@
   font-family: 'Segoe UI', Tahoma, sans-serif;
 }
 
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
 .imgMain{
 
   box-shadow: 0 0 10px #042C54, 0 0 15px #042C54, 0 0 20px #042C80;
-  transition: box-shadow 0.3s ease;
+  transition: box-shadow 0.5s ease;
 }
 
 .imgMain:hover{

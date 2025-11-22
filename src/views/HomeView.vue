@@ -9,7 +9,7 @@
     <div class="flex shrink-0">
       <img
         class="rounded-full object-cover imgMain w-100"
-        :src="iconMeuList"
+        src="../assets/IconMeuList.png"
         alt="Icona"
       />
     </div>
@@ -32,7 +32,6 @@
 </template>
 
 <script setup>
-import iconMeuList from '@/assets/iconMeuList.png';
 import MyNavbar from '@/components/MyNavbar.vue';
 </script>
 

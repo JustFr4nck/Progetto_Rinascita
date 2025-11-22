@@ -3,12 +3,12 @@
     <MyNavbar/>
   </div>
 
-  <div class="flex flex-col md:flex-row items-center backGroundMain p-6 md:p-10 gap-6">
+  <div class="flex flex-col md:flex-row items-center justify-center backGroundMain p-6 md:p-10 gap-6 lg:mt-40">
 
 
     <div class="flex shrink-0">
       <img
-        class="rounded-full object-cover imgMain"
+        class="rounded-full object-cover imgMain w-100"
         :src="iconMeuList"
         alt="Icona"
       />
